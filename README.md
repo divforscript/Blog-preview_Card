@@ -7,14 +7,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [References](#references)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Implementarion](#implementation)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -25,19 +21,23 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+Desktop Design: 1440 px <br>
+On this time, the model includes hover feature in the header of blog-card information. 
 
+![imagen](./images/desktop-design.jpg)
 
-
-## Design
-
+Mobile design: 375 px
+![image](./images/mobile-design.jpg)
 
 ## Live URL
-
+- https://utdevolt.github.io/Blog-preview_Card/
 
 ## Implementation
 
+### What I learned
+I learned more about responsive design, hover and new features for CSS like `shadow` and `object-fit`
 
-### References:
+### Useful resources:
 - https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 - https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
 - https://www.w3schools.com/css/css_text_spacing.asp
