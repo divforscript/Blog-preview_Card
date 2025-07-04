@@ -1,7 +1,7 @@
 # Blog-preview_Card
 ## Live URL
 - [https://divforscript.github.io/Blog-preview_Card/](https://divforscript.github.io/Blog-preview_Card/)
-- 
+
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
