@@ -1,5 +1,7 @@
 # Blog-preview_Card
-
+## Live URL
+- [https://divforscript.github.io/Blog-preview_Card/](https://divforscript.github.io/Blog-preview_Card/)
+- 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
@@ -29,8 +31,6 @@ On this time, the model includes hover feature in the header of blog-card inform
 Mobile design: 375 px
 ![image](./images/mobile-design.jpg)
 
-## Live URL
-- https://utdevolt.github.io/Blog-preview_Card/
 
 ## Implementation
 
